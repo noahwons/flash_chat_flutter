@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396443299638",
+    "project_id": "flutterfire-flash-chat",
+    "storage_bucket": "flutterfire-flash-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396443299638:android:f948713057ea4fae1e0d97",
+        "android_client_info": {
+          "package_name": "com.noahwons.flutterfire_flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQyjLD--U3BsPsekgBu-Zqo30jpKmLKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
